@@ -12,7 +12,7 @@
 #include "project.h"
 #include "global.h"
 
-uint8_t count = 0;
+uint8_t count = 1;
 
 const PATTERN PRIMO = {1999, 1999, 1999, 1999, 1999, 1999};  /* {periodo_red, perido_green, counter_red, counter_green, compare_red, compare_green} */
 const PATTERN SECONDO = {1999, 1999, 1999, 1000, 1999, 1000};

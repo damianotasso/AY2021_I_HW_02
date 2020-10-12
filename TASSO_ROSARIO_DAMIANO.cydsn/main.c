@@ -1,13 +1,11 @@
-/* ========================================
+/* ====================================================================================
  *
- * Copyright YOUR COMPANY, THE YEAR
- * All Rights Reserved
- * UNPUBLISHED, LICENSED SOFTWARE.
+ * Author: Damiano R. Tasso 944232
+ * 
+ * This file contains the main function in which the interrupt and teh PWM are enabled.  
+ * The infinite loop is empty because the programme could be all execute in the ISR.
  *
- * CONFIDENTIAL AND PROPRIETARY INFORMATION
- * WHICH IS THE PROPERTY OF your company.
- *
- * ========================================
+ * ====================================================================================
 */
 #include "project.h"
 #include "Service_Routines.h"

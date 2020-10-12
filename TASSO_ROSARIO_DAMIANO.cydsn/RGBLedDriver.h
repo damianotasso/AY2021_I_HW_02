@@ -3,7 +3,7 @@
  * Author: Damiano R. Tasso 944232
  * 
  * This file contains the definition of the new type 'PATTERN' as a struct with the parameters that I can 
- * modify with the different patterns  
+ * modify with the different patterns and the functions to activate and to disactivate the PWM.  
  *
  * ========================================
 */

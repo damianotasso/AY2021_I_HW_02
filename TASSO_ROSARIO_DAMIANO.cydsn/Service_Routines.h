@@ -2,7 +2,7 @@
  *
  * Author: Damiano R. Tasso 944232
  * 
- * This file ontains the definition of the prototipe of the Interrupt Service Routine
+ * This file contains the definition of the prototipe of the Interrupt Service Routine
  * 
  * ==================================================================================
 */

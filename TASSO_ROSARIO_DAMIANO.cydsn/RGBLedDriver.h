@@ -15,8 +15,8 @@
     typedef struct {
         uint16_t periodo_red;
         uint16_t periodo_green;
-        uint16_t counter_red;
-        uint16_t counter_green;
+        uint16_t cmp_mode_red;
+        uint16_t cmp_mode_green;
         uint16_t compare_red;
         uint16_t compare_green;        
     }PATTERN;

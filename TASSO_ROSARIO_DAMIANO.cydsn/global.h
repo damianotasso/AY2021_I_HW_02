@@ -4,7 +4,7 @@
  * 
  * This file contains the definition of the global variables used on the project. 
  * In particular are defined: the varable 'count' --> used to change pattern every 
- * time the interrpt is generated; the seven patterns as a PATTERN type.  
+ * time the interrpt is generated; the seven patterns as a new type called PATTERN.  
  *
  * ================================================================================
 */

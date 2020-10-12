@@ -16,10 +16,12 @@
 
 CY_ISR(BUTTON_ISR)
 {
+    /* Increment of the count variable */
     count++;
     
     if(count == 1)
     {
+        /* setting of the PWMs parameters */
         PWM_red_WritePeriod(PRIMO.periodo_red);
         PWM_green_WritePeriod(PRIMO.periodo_green);
         PWM_red_SetCompareMode(PRIMO.cmp_mode_red);

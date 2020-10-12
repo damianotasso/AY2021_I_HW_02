@@ -10,7 +10,12 @@
 #include "global.h"
 
 uint8_t count = 1;
-/* {periodo_red, perido_green, cmp_mode_red, cmp_mode_green, compare_red, compare_green} */
+
+/* For each pattern are defined the following parameters:
+ * PATTERN X = {periodo_red, periodo_green, cmp_mode_red, cmp_mode_green, compare_red, compare_green}
+ * accordignly to the struct defined on the RGBLedDriver.h 
+ */
+
 const PATTERN PRIMO = {1999, 1999, PWM_red__B_PWM__GREATER_THAN, PWM_green__B_PWM__GREATER_THAN, 1999, 1999};  
 const PATTERN SECONDO = {1999, 1999, PWM_red__B_PWM__GREATER_THAN, PWM_green__B_PWM__LESS_THAN, 1999, 1000};
 const PATTERN TERZO = {1999, 1999, PWM_red__B_PWM__GREATER_THAN, PWM_green__B_PWM__GREATER_THAN, 1000, 1999};

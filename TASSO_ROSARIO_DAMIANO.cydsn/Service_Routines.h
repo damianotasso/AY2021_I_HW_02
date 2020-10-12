@@ -1,13 +1,10 @@
-/* ========================================
+/* ==================================================================================
  *
- * Copyright YOUR COMPANY, THE YEAR
- * All Rights Reserved
- * UNPUBLISHED, LICENSED SOFTWARE.
- *
- * CONFIDENTIAL AND PROPRIETARY INFORMATION
- * WHICH IS THE PROPERTY OF your company.
- *
- * ========================================
+ * Author: Damiano R. Tasso 944232
+ * 
+ * This file ontains the definition of the prototipe of the Interrupt Service Routine
+ * 
+ * ==================================================================================
 */
 
 #ifndef __SERVICE_ROUTINES_H__

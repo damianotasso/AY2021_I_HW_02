@@ -1,13 +1,10 @@
-/* ========================================
+/* ====================================================================================
  *
- * Copyright YOUR COMPANY, THE YEAR
- * All Rights Reserved
- * UNPUBLISHED, LICENSED SOFTWARE.
+ * Author: Damiano R. Tasso 944232
+ * 
+ * This file contains the initialization of the global variables defined on the global.h  
  *
- * CONFIDENTIAL AND PROPRIETARY INFORMATION
- * WHICH IS THE PROPERTY OF your company.
- *
- * ========================================
+ * ====================================================================================
 */
 #include "project.h"
 #include "global.h"

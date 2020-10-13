@@ -11,7 +11,8 @@
 
 uint8_t count = 1;
 
-/* For each pattern are defined the following parameters:
+/* 
+ * For each pattern are defined the following parameters:
  * PATTERN X = {periodo_red, periodo_green, cmp_mode_red, cmp_mode_green, compare_red, compare_green}
  * accordignly to the struct defined on the RGBLedDriver.h 
  */

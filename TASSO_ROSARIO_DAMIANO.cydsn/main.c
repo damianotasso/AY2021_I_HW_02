@@ -9,7 +9,6 @@
 */
 #include "project.h"
 #include "Service_Routines.h"
-#include "global.h"
 #include "RGBLedDriver.h"
 
 
